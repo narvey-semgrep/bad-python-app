@@ -20,4 +20,4 @@ def route_param2(route_param):
     # ok:dangerous-os-exec
     os.execl("static")
 
-    return "ok!"
+    return "Ok!"
